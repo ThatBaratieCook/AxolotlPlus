@@ -18,7 +18,7 @@ dependent on what variant they are. Enjoy!
 
 
 # Content
-![Untitled-1](https://user-images.githubusercontent.com/86271733/122850887-dc831a80-d2c2-11eb-9be9-3efeb2d24685.png)
+![Untitled-1](https://raw.githubusercontent.com/ThatBaratieCook/ThatBaratieCook/axolotlplus/sourcefiles/images/AxolotlPlusContent.png)
 
 # In Development
 
