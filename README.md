@@ -5,7 +5,7 @@
 Makes the axolotls from Minecraft better! Basically I changed the axolotl textures to be 32x (technically 128x but no one cares) and the axolotl buckets are color-
 dependent on what variant they are. Enjoy!
 
-**Reddit:** https://www.reddit.com/user/HonestlyWholesome 
+**Reddit:** https://www.reddit.com/user/HonestlyNot
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
