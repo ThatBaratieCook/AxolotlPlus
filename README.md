@@ -1,7 +1,7 @@
 # Axolotl Plus
 
 # THIS PROJECT IS DISCONTINUED
-I have given up on this texture pack, I mean I have lost interest in minecraft and no one even uses my pack anyway lol so there is no reason to keep this and I haven't been updating it for 6 months so yeah.
+I have given up on this project and honestly no one would read this anyway but yeah... no more axolotl plus. I've lost interest in minecraft so I don't have the urge or feeling to continue this project. Bye! :D
 
 <details>
   <summary>...</summary>
