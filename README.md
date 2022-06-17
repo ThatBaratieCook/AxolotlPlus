@@ -1,5 +1,8 @@
 # Axolotl Plus
 
+# THIS PROJECT IS DISCONTINUED
+I have given up on this texture pack, I mean I have lost interest in minecraft and no one even uses my pack anyway lol so there is no reason to keep this and I haven't been updating it for 6 months so yeah.
+
 ### AFTER BETA 1.1, [FAITHFUL x32](https://www.curseforge.com/minecraft/texture-packs/faithful-team) TEXTURES WONT BE USED, INSTEAD BETA 1.2 AND LATER WILL USE [COMPLIANCE 32x](https://compliancepack.net/). HERE IS [WHY](https://github.com/ThatBaratieCook/ThatBaratieCook/blob/axolotlplus/COMPLIANCEUSE.md).
 ![a6112619403e603cdf9c17ea4be23567](https://raw.githubusercontent.com/ThatBaratieCook/ThatBaratieCook/axolotlplus/sourcefiles/images/AxolotlPlusBannerFALT.png)
 
