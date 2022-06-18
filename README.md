@@ -1,7 +1,7 @@
 # Axolotl Plus
 
-# THIS PROJECT IS DISCONTINUED
-I have given up on this project and honestly no one would read this anyway but yeah... no more axolotl plus. I've lost interest in minecraft so I don't have the urge or feeling to continue this project. Bye! :D
+# THIS PROJECT IS DISCONTINUED... kinda?
+I won't promise anything for this project and won't actively update it but if I feel like there will be small or big updates.
 
 <details>
   <summary>...</summary>
